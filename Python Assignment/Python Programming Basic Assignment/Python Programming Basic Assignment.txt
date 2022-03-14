@@ -1,0 +1,7 @@
+Hi,
+
+This folder contains the assignments that
+I do for Python Programming Basic Assignment.
+
+
+Thanks!!!
